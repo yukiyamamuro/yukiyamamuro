@@ -1,5 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=yukiyamamuro)](https://github.com/yukiyamamuro/github-profile-trophy)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiyamamuro)](https://github.com/yukiyamamuro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyamamuro&layout=compact)](https://github.com/yukiyamamuro/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yukiyamamuro)](https://github.com/yukiyamamuro/github-profile-trophy)
 
 <!--
 **yukiyamamuro/yukiyamamuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
