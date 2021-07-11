@@ -1,4 +1,5 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=yukiyamamuro)](https://github.com/yukiyamamuro/github-profile-trophy)
+
 
 <!--
 **yukiyamamuro/yukiyamamuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
