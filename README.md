@@ -2,7 +2,7 @@
 Backend Engineer
 
 ### 🌱 skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,nodejs,react,nextjs,tailwind,dart,flutter,ruby,rails,golang,docker,redis,postgres,mysql,firebase,vercel,netlify,gcp,git,github,githubactions,vscode,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,nodejs,react,dart,flutter,ruby,rails,python,golang,rust,solidity,docker,redis,postgres,mysql,firebase,vercel,netlify,gcp,github,githubactions,vscode,figma" />
 
 
 ## 🔭 Features
