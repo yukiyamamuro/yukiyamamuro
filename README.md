@@ -1,5 +1,8 @@
 ## 😄 About
-Backend Engineer
+Backend: Rails(ruby), Golang, Python, Nest.js(typescript)
+Frontend: Next.js(typescript), React(typescript), Flutter
+Infra: Vercel, GCP, terraform, Dokcer
+Other: GraphQL(Relay), Kubernetes
 
 ### 🌱 skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,nodejs,react,dart,flutter,ruby,rails,python,golang,rust,solidity,docker,redis,postgres,mysql,firebase,vercel,netlify,gcp,github,githubactions,vscode,figma" />
