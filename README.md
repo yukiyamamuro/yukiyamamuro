@@ -1,11 +1,11 @@
 ## 😄 About
-Backend: Rails(ruby), Golang, Python, Nest.js(typescript)  
+Backend: Rails(ruby), Golang, Python, Hono(typescript)  
 Frontend: Next.js(typescript), React(typescript), Flutter  
-Infra: Vercel, GCP, terraform, Dokcer  
-Other: GraphQL(Relay), Kubernetes  
+Infra: Vercel, GCP, terraform, Dokcer, Cloudflare  
+Other: GraphQL(Relay), tRPC, Kubernetes, Cloud Run  
 
 ### 🌱 skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,nodejs,react,dart,flutter,ruby,rails,python,golang,rust,solidity,docker,redis,postgres,mysql,firebase,vercel,netlify,gcp,github,githubactions,vscode,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,nodejs,react,nextjs,prisma,tailwind,bun,pnpm,dart,flutter,ruby,rails,python,golang,rust,solidity,graphql,docker,kubernetes,terraform,githubactions,redis,postgres,mysql,firebase,vercel,cloudflare,gcp,github,vscode,figma" />
 
 
 ## 🔭 Features
@@ -17,7 +17,6 @@ Other: GraphQL(Relay), Kubernetes
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yukiyamamuro" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yukiyamamuro)](https://github.com/yukiyamamuro/github-profile-trophy)
 
 ## 📨 Contact me.
 
